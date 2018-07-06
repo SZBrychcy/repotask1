@@ -1,0 +1,8 @@
+podstawowe komendy git:
+git init - stworzenie repozytorium
+git status - wyświetla stan plików
+git add README.md - dodawanie plików
+git diff - wyświetla zmiany w śledzonych plikach 
+git commit - zatwierdzenie zmian
+git log - oneline - wyświetlanie listy zatwierdzonych zmian
+git checkoute name.in - przywraca plik do stanu początkowego
